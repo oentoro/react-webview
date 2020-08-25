@@ -55,7 +55,14 @@
 	<string></string>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
-	<key>UIFileSharingEnabled</key>
+	<key> UIFileSharingEnabled</key>
 	<true/>
+	<key>LSSupportsOpeningDocumentsInPlace</key>
+	<true/>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>SAve ictures for downloaded image</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Save pictures for certain activities.</string>
+	
 </dict>
 </plist>
